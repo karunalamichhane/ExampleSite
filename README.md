@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>All About Karuna!</title>
-</head>
-
 <body>
 <h1>Favorite Artists</h1>
 <p>I think <strong>Taylor Swift</strong> is an amazing <i>singer</i>! Her lyrics are very captivating and beautifully written. I hope someday I will get to meet her.</p> 
@@ -20,3 +14,5 @@ body{background:#988b79;}
 </style>
 
 </html>
+
+all too well by taylor swift{color:#726d41;}
