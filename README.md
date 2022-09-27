@@ -4,8 +4,7 @@
 <h2>Some Hobbies I Enjoy!</h2>
 <p>I like to <i>reading</i> very much. Although school keeps me busy most of the time, I sometimes find the time to attend to this hobby.</p>
 <p><i>Painting</i> is a very relaxing hobby I enjoy doing. It takes my mind off reality.</p>
-<img src="https://i.pinimg.com/564x/e3/58/d8/e358d8df99cdb172d42e67bafc10d918.jpg">
-
+  ![image](https://user-images.githubusercontent.com/114519462/192610010-00b10514-72a3-4147-bc06-747f8b4e77fb.png)
 <style>
 h1{color:#726d41;}
 h2{color:#726d41;}
